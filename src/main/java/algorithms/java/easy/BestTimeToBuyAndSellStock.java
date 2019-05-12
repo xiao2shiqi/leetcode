@@ -1,7 +1,7 @@
 package algorithms.java.easy;
 
 /**
- * 121. Best Time to Buy and Sell Stock
+ * LC#121. Best Time to Buy and Sell Stock
  */
 public class BestTimeToBuyAndSellStock {
 
