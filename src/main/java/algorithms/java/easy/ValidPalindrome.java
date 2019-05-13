@@ -7,6 +7,7 @@ public class ValidPalindrome {
 
     public static boolean isPalindrome(String s) {
         if (s == null) return true;
+        //没有什么复杂的逻辑，全部转小写，然后反转对比，So easy
         s = s.toLowerCase();
         StringBuffer sb = new StringBuffer();
         for (char c : s.toCharArray()) {
