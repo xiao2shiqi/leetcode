@@ -6,6 +6,11 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|136|[Single Number](https://leetcode-cn.com/problems/single-number/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/SingleNumber.java)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/BestTimeToBuyAndSellStockII.java)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/BestTimeToBuyAndSellStock.java)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/MaximumDepthOfBinaryTree.java)|Easy|
+|101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/SymmetricTree.java)|Easy|
 |100|[Same Tree](https://leetcode-cn.com/problems/same-tree/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/SameTree.java)|Easy|
 |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/MergeTwoArray.java)|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/RemoveDuplicatesFromSortedList.java)|Easy|
