@@ -10,7 +10,7 @@ import java.util.Map;
 public class TwoSumIIinputArrayIsSorted {
 
     public static int[] twoSum(int[] numbers, int target) {
-        //两次哈希，解析思路跟 LC#1 一样,但是要处理一下下标
+        //two hash,  time : O(n)
         Map<Integer, Integer> intHash = new HashMap<>();
         for (int i = 0; i < numbers.length; i++) {
             intHash.put(numbers[i], i);
