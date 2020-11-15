@@ -24,7 +24,9 @@ public class TwoSum {
         }
         for(int i = 0; i < nums.length; i++) {
             int targetKey = target - nums[i];
-            if(hashMap.containsKey(targetKey) && hashMap.get(targetKey) != i) return new int[]{i, hashMap.get(targetKey)};      //不跟自己匹配
+            if(hashMap.containsKey(targetKey) && hashMap.get(targetKey) != i) {
+                return new int[]{i, hashMap.get(targetKey)};      //不跟自己匹配
+            }
         }
         return null;
     }
