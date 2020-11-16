@@ -30,4 +30,4 @@ LeetCode
 |13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/RomanToInteger.java)|Easy|
 |9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/PalindromeNumber.java)|Easy|
 |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/RomanToInteger.java)|Easy|
-|1|[Two Sum](https://leetcode-cm.com/problems/two-sum/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/TwoSum.java)|Easy|
+|1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/TwoSum.java)|Easy|
