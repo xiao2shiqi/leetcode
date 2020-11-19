@@ -36,5 +36,11 @@ public class TwoSum {
         int target = 6;
         int[] result = twoSum(nums, target);
         System.out.println(Arrays.toString(result));
+
+        String h = "hello";
+        for (int i = 0; i < 4001; i++) {
+            System.out.print(h);
+        }
+
     }
 }
