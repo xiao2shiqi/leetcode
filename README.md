@@ -1,7 +1,7 @@
 LeetCode
 ========
 
-### Solution of leetcode problem through Java language
+### 解决方案
 
 
 | # | Title | Solution 1| Solution 2|
