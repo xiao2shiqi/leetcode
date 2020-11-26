@@ -1,0 +1,29 @@
+=begin
+ * #9: Palindrome Number
+ * https://leetcode-cn.com/problems/palindrome-number/
+ *
+ * 解题思路：
+ * 一：对比集合匹配：时间复杂度O(n)
+ * 1 通过%10将数值弹出放入集合
+ * 2 根据奇数和偶数计算需要matching的次数，例如长度4的数值，只需要匹配2次即可
+ * 3 遍历集合，从i=0开始匹配并递增，匹配对象为 length - i，匹配成功flagNum++
+ * 4 当匹配数 == flagNum 可以得出该数值是回文数
+ *
+ * 二：弹出匹配法：时间复杂度O(logN)
+ * 1 将数值x通过循环弹出，赋值给r
+ * 2 当 x < r 的时候，代表数值已经对半拆开，例如： x=2222， 拆开后 x=22， r=22
+ * 3 判断 x == r 证明为回文数，x == r/10，处理x为奇数的情况
+=end
+
+def palindarome_numder(x)
+    # 合法性校验
+    return false if x%10 == 0 && x != 0
+    r = 0
+    while x > r do
+        r = (r*10) + (x%10)
+        x = x / 10
+    end
+    return r == x || x == (r/10)
+end
+
+p "result >", palindarome_numder(10101)
