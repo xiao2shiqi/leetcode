@@ -4,8 +4,8 @@ LeetCode
 ### Solution of leetcode problem through Java language
 
 
-| # | Title | Solution |
-|---| ----- | -------- |
+| # | Title | Solution 1| Solution 2|
+|---| ----- | -------- | -------- |
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/TwoSumIIinputArrayIsSorted.java)
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/SingleNumber.java)
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/BestTimeToBuyAndSellStockII.java)
@@ -23,11 +23,11 @@ LeetCode
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/SearchInsertPosition.java)
 |28|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/RemoveElement.java)
 |27|[Remove Element](https://leetcode-cn.com/problems/remove-element/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/RemoveElement.java)
-|26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/RemoveDuplicatesFromSortedArray.java)
+|26|[Remove Duplicates from Sorted Array 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/RemoveDuplicatesFromSortedArray.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/remove_duplicates.rb)
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/MergeTwoSortedLists.java)
-|20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/ValidParentheses.java)
-|14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/LongestCommonPrefix.java)
-|13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/RomanToInteger.java)
-|9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/PalindromeNumber.java)
-|7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/RomanToInteger.java)
-|1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/TwoSum.java)
+|20|[Valid Parentheses 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/ValidParentheses.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/valid_parentheses.rb)
+|14|[Longest Common Prefix 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/LongestCommonPrefix.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/longest_common_prefix.rb)
+|13|[Roman to Integer 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/RomanToInteger.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/roman_to_int.rb)
+|9|[Palindrome Number 回文数](https://leetcode-cn.com/problems/palindrome-number/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/PalindromeNumber.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/palindrome_number.rb)
+|7|[Reverse Integer 正数反转](https://leetcode-cn.com/problems/reverse-integer/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/RomanToInteger.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/reverse_integer.rb)
+|1|[Two Sum 两数之和](https://leetcode-cn.com/problems/two-sum/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/TwoSum.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/two_sum.rb)
