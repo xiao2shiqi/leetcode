@@ -7,11 +7,9 @@
 def str_str(haystack, needle)
     return 0 if needle.empty?
     l = needle.size
-    n = haystack.size
     start = 0
-    while start < n - l + 1 do
-        interceptStr = haystack[start..start + l - 1]
-        return start if interceptStr == needle
+    while start < (haystack.size - l + 1) do
+        return start if haystack[start..start + l - 1] == needle
         start+=1
     end
     -1
