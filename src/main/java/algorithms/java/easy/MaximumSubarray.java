@@ -10,8 +10,8 @@ public class MaximumSubarray {
     public int maxSubArray(int[] nums) {
         int pre = 0, maxAns = nums[0];
         for (int x : nums) {
-            pre = Math.max(pre + x, x);
-            maxAns = Math.max(maxAns, pre);
+            pre = pre + x > x ? pre + x : x;
+            maxAns = maxAns > pre ? maxAns : pre;
         }
         return maxAns;
     }
