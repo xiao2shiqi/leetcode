@@ -25,7 +25,9 @@ public class PascalsTriangle {
             List<Integer> prevRow = triangle.get(rowNum - 1);
             // 当前层元素永远为 1
             row.add(1);
-            for (int j = 1; j < rowNum; j++) row.add(prevRow.get(j - 1) + prevRow.get(j));
+            for (int j = 1; j < rowNum; j++) {
+                row.add(prevRow.get(j - 1) + prevRow.get(j));
+            }
             // 尾部元素永远为 1
             row.add(1);
             triangle.add(row);
