@@ -10,7 +10,7 @@ LeetCode
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/SingleNumber.java)
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/BestTimeToBuyAndSellStockII.java)
 |121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/BestTimeToBuyAndSellStock.java)
-|118|[Pascal's Triangle 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/submissions/)|[Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/PascalsTriangle.java)
+|118|[Pascal's Triangle 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/submissions/)|[Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/PascalsTriangle.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/pascals_triangle.rb)
 |104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/MaximumDepthOfBinaryTree.java)
 |101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/SymmetricTree.java)
 |100|[Same Tree](https://leetcode-cn.com/problems/same-tree/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/SameTree.java)
