@@ -12,14 +12,16 @@ public class FactorialTrailingZeroes {
 
     public static int trailingZeroes(int n) {
         // 这里使用 BigInteger 计算阶乘，防止阶乘导致 Integer 溢出
+        // Calculate n!
         BigInteger nFactorial = BigInteger.ONE;
         for (int i = 2; i <= n; i++) {
             nFactorial = nFactorial.multiply(BigInteger.valueOf(i));
         }
+
+        // Count how many 0's are on the end.
         int zeroCount = 0;
-        // 使用 BigInteger 函数模拟 nFactorial % 10 == 0 判断尾部是否为 0
-        while (nFactorial.mod(BigInteger.TEN).equals(BigInteger.ZERO)) {
-            // 这里思路和 LC#9 类似，弹出 10位，zeroCount ++
+        BigInteger mod = nFactorial.mod(BigInteger.TEN);
+        while (mod.equals(BigInteger.ZERO)) {
             nFactorial = nFactorial.divide(BigInteger.TEN);
             zeroCount++;
         }
