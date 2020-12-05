@@ -1,30 +1,17 @@
 =begin	
- Leetcode #1 Two Sum
- https://leetcode-cn.com/problems/two-sum/
- 时间复杂度：O(n)
-
- 思路：
- 1 两次哈希求解
- 2 将数组放入散列表
- 3 遍历散列表，通过target-key得出匹配数组
- 4 并且判断非自身元素，返回数组
+ * LC#1 Two Sum 两数之和
+ * https://leetcode-cn.com/problems/two-sum/
+ * 思路1：2次哈希求解：将数组放入散列表，遍历散列表，通过target-key得出匹配数组，并且判断非自身元素，返回数组，时间复杂度 O（n）
+ * 思路2[runtime beats（最优解）]：1次哈希求解：在遍历 num 数组，如果哈希表不包含 target - num[i] ，则将 num[i], i 放入哈希表，如果包含则直接返回 [i, hash[val]] 下标
 =end
 def two_sum (nums, target)
 		hash = {}
-		nums.each_with_index { |num, index| hash[num] = index }
-		nums.each_index { |index|
-			key_index = target - nums[index]
-			return [index, hash[key_index]] if hash.has_key?(key_index) && hash[key_index] != index
+		nums.each_index { |i|
+			return [hash[target - nums[i]], i] if hash.has_key?(target - nums[i]) 
+			hash[nums[i]] = i
 		}
+		[]
 end
 
-=begin
- 验证结果
- 给定 nums = [2, 7, 11, 15], target = 9
- 因为 nums[0] + nums[1] = 2 + 7 = 9
- 所以返回 [0, 1] 解决
-=end
-nums = [3, 2, 4]
-target = 6
-result = two_sum(nums, target)
+result = two_sum([2, 7, 11, 15], 9)
 p "result > ", result
