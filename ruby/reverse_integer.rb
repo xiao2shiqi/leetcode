@@ -1,10 +1,7 @@
 =begin
-* #7：ReverseInteger
-* https://leetcode-cn.com/problems/reverse-integer/
-* 时间复杂度：O(logn)
-* 思路：
-* 1 通过%10将整数从尾数弹出放入r中
-* 2 x弹完=0时，返回r（判断溢出）
+ * LC#7：ReverseInteger 整数反转
+ * https://leetcode-cn.com/problems/reverse-integer/
+ * 思路1（runtime beats 最优解）：通过%10将整数从尾数弹出放入r中，x弹完=0时，返回r（判断溢出）
 =end
 
 def reverse_integer (target_num)
