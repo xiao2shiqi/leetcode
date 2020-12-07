@@ -6,7 +6,6 @@ def binary_search(array_num, target)
 
     while high >= low
         mid = (low + high) / 2
-        p "mid : #{mid}"
         e = array_num[mid]
         return mid if e == target
         high = mid - 1 if e > target
