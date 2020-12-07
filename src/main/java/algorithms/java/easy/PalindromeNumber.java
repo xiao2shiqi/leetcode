@@ -11,7 +11,7 @@ package algorithms.java.easy;
  * 3 遍历集合，从i=0开始匹配并递增，匹配对象为 length - i，匹配成功flagNum++
  * 4 当匹配数 == flagNum 可以得出该数值是回文数
  *
- * 二：弹出匹配法：时间复杂度O(logN)
+ * 二：弹出匹配法：时间复杂度O(logN) （runtime beats !!!）
  * 1 将数值x通过循环弹出，赋值给r
  * 2 当 x < r 的时候，代表数值已经对半拆开，例如： x=2222， 拆开后 x=22， r=22
  * 3 判断 x == r 证明为回文数，x == r/10，处理x为奇数的情况
