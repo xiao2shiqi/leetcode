@@ -28,7 +28,7 @@ public class PascalsTriangle {
 
     public static void main(String[] args) {
         PascalsTriangle pascalsTriangle = new PascalsTriangle();
-        List<List<Integer>> generate = pascalsTriangle.generate(5);
+        List<List<Integer>> generate = pascalsTriangle.generate(10);
         System.out.println(generate);
     }
 

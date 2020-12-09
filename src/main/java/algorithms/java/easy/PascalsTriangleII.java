@@ -23,14 +23,8 @@ public class PascalsTriangleII {
     }
 
     public static void main(String[] args) {
-//        PascalsTriangleII pascalsTriangle = new PascalsTriangleII();
-//        List<Integer> generate = pascalsTriangle.getRow(10);
-//        System.out.println(generate);
-
-        int[] a = new int[]{1,2,3};
-        System.out.println(Arrays.toString(a));
-        a = new int[a.length + 1];
-        System.out.println(Arrays.toString(a));
+        PascalsTriangleII pascalsTriangle = new PascalsTriangleII();
+        List<Integer> generate = pascalsTriangle.getRow(10);
+        System.out.println(generate);
     }
-
 }
