@@ -6,7 +6,7 @@ LeetCode
 
 | # | Title | Solution 1| Solution 2|
 |---| ----- | -------- | -------- |
-|283|[Move Zeroes 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/MoveZeroes.java)
+|283|[Move Zeroes 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/MoveZeroes.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/move_zeroes.rb)
 |217|[ContainsDuplicate 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/ContainsDuplicate.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/contains_duplicate.rb)
 |206|[ReverseLinkedList 反转链表](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/ReverseLinkedList.java) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/ReverseLinkedList.java)
 |172|[Factorial Trailing Zeroes 计算阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/submissions/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/FactorialTrailingZeroes.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/factorial_trailing_zeroes.rb)
