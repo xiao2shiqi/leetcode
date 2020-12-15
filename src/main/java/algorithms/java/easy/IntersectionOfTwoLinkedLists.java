@@ -1,8 +1,5 @@
 package algorithms.java.easy;
 
-import java.util.HashSet;
-import java.util.Set;
-
 /**
  * LC#160. Intersection of Two Linked Lists 相交链表
  * Link：https://leetcode-cn.com/problems/intersection-of-two-linked-lists/
