@@ -7,8 +7,10 @@ LeetCode
 | # | Title | Solution 1| Solution 2|
 |---| ----- | -------- | -------- |
 |283|[Move Zeroes 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/MoveZeroes.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/move_zeroes.rb)
+|219|[存在重复元素 II Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/Solution219.java)
 |217|[ContainsDuplicate 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/ContainsDuplicate.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/contains_duplicate.rb)
-|206|[ReverseLinkedList 反转链表](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/ReverseLinkedList.java) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/ReverseLinkedList.java)
+|206|[ReverseLinkedList 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/ReverseLinkedList.java)  
+|203|[Remove Linked List Elements 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/Solution203.java)
 |172|[Factorial Trailing Zeroes 计算阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/submissions/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/FactorialTrailingZeroes.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/factorial_trailing_zeroes.rb)
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/TwoSumIIinputArrayIsSorted.java)
 |160|[Intersection of Two Linked Lists 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/IntersectionOfTwoLinkedLists.java)
