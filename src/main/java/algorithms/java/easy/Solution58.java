@@ -9,10 +9,6 @@ package algorithms.java.easy;
 public class LengthOfLastWord {
 
     public int lengthOfLastWord(String s) {
-//        String[] sa = s.split(" ");
-//        if(sa.length == 0) return 0;
-//        return sa[sa.length - 1].length();
-
         int end = s.length() - 1;
         while(end >= 0 && s.charAt(end) == ' ') end--;
         if(end < 0) return 0;
