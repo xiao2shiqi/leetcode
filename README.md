@@ -6,7 +6,7 @@ LeetCode
 
 | # | Title | Solution 1| Solution 2|
 |---| ----- | -------- | -------- |
-|876|[Middle of the Linked List 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/Solution876.java)
+|876|[Middle of the Linked List 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/Solution876.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/876_solution.rb)
 |414|[Third Maximum Number 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/Solution414.java)
 |283|[Move Zeroes 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/MoveZeroes.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/move_zeroes.rb)
 |219|[Contains Duplicate II 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/Solution219.java)
