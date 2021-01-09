@@ -10,7 +10,7 @@ public class Solution237 {
 
     static class ListNode {
         int val;
-        IntersectionOfTwoLinkedLists.ListNode next;
+        ListNode next;
         ListNode(int x) {
             val = x;
             next = null;
