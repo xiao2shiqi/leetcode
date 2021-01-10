@@ -6,6 +6,8 @@ LeetCode
 
 | # | Title | Solution 1| Solution 2|
 |---| ----- | -------- | -------- |
+|PO#18|[剑指 Offer#18：删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/PointerOffer18.java)
+|PO#06|[剑指 Offer#06：从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/PointerOffer06.java)
 |876|[Middle of the Linked List 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/Solution876.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/876_solution.rb)
 |414|[Third Maximum Number 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/Solution414.java)
 |283|[Move Zeroes 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/MoveZeroes.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/move_zeroes.rb)
