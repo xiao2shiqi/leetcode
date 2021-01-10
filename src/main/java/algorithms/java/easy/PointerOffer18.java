@@ -20,17 +20,9 @@ public class PointerOffer18 {
             next = null;
         }
 
-        @Override
-        public String toString() {
-            return "ListNode{" +
-                    "val=" + val +
-                    ", next=" + next +
-                    '}';
-        }
     }
 
     public static ListNode deleteNode(ListNode head, int val) {
-        // 解决头指针被命中的问题
         if (head.val == val) {
             return head.next;
         }
@@ -43,14 +35,10 @@ public class PointerOffer18 {
             }
             prev = prev.next;
         }
-        // 两种情况
-        // 1 存在 子子节点，将子节点的更新为子子节点，完成删除
-        // 2 要删除节点，为末尾节点，直接将当前引用删除即可
         ListNode nextNode = currentPrevNode.next;
         if (nextNode.next == null) {
             currentPrevNode.next = null;
-        }
-        if (nextNode.next != null) {
+        } else {
             nextNode.val = nextNode.next.val;
             nextNode.next = nextNode.next.next;
         }
@@ -58,13 +46,12 @@ public class PointerOffer18 {
     }
 
     public static void main(String[] args) {
-
-        ListNode n1 = new ListNode(-3);
-        ListNode n2 = new ListNode(-5);
-        ListNode n3 = new ListNode(-99);
+        ListNode n1 = new ListNode(1);
+        ListNode n2 = new ListNode(2);
+        ListNode n3 = new ListNode(3);
         n1.next = n2; n2.next = n3;
 
-        ListNode listNode = PointerOffer18.deleteNode(n1, -3);
+        ListNode listNode = PointerOffer18.deleteNode(n1, 2);
         System.out.println(listNode);
     }
 }
