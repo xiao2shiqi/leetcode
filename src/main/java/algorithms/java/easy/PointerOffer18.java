@@ -19,7 +19,6 @@ public class PointerOffer18 {
             val = x;
             next = null;
         }
-
     }
 
     public static ListNode deleteNode(ListNode head, int val) {
