@@ -7,9 +7,12 @@
 =end
 
 def find_disappeared_numbers(nums)
-  nums.each {|e| nums[e.abs - 1] = nums[e.abs - 1] * -1 if nums[e.abs - 1] > 0}
+  nums.each do |e|
+    new_index = e.abs - 1
+    nums[new_index] = nums[new_index] * -1 if nums[new_index] > 0
+  end
   result = []
-  nums.each_index { |i| result.push(i + 1) if nums[i] > 0 }
+  nums.each_with_index { |e, i| result << i + 1 if e > 0 }
   result
 end
 
