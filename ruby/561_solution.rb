@@ -1,5 +1,5 @@
 =begin
-LC#561 数组拆分
+LC#561 数组拆分 Array Partition I
 Link：https://leetcode-cn.com/problems/array-partition-i/
 思路：对数组排序后，直接计算奇数下标即可
 =end
