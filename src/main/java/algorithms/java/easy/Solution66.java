@@ -6,7 +6,7 @@ import java.util.Arrays;
  * #66. Plus One
  * https://leetcode-cn.com/problems/plus-one/
  */
-public class PlusOne {
+public class Solution66 {
 
     public static int[] plusOne(int[] digits) {
         if(digits.length == 0) return digits;

@@ -36,7 +36,7 @@ LeetCode
 |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/MergeTwoArray.java)
 |83|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/RemoveDuplicatesFromSortedList.java)
 |70|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/ClimbingStairs.java)
-|66|[Plus One](https://leetcode-cn.com/problems/plus-one/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/PlusOne.java)
+|66|[Plus One 加一](https://leetcode-cn.com/problems/plus-one/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/Solution66.java)
 |58|[Length of Last Word 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/LengthOfLastWord.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/58_solution.rb)
 |53|[Maximum Sub Array 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/MaximumSubarray.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/maximum_subarray.rb)
 |38|[Count and Say 外观数列](https://leetcode-cn.com/problems/count-and-say/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/algorithms/java/easy/CountAndSay.java)
