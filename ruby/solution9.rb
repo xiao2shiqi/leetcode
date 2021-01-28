@@ -1,5 +1,5 @@
 =begin
- * #9: Palindrome Number
+ * LC#9: Palindrome Number  回文数
  * https://leetcode-cn.com/problems/palindrome-number/
  *
  * 解题思路：
