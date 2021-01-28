@@ -11,7 +11,6 @@ package algorithms.java.easy;
  * 1 值相等 target：array[mid] == target 返回 mid 作为结果
  * 2 值大于 target：缩小 high 的范围 high = mid - 1
  * 3 值小于 target：扩大 low 的范围  low = mid + 1
- * @author Phoenix on 2020/12/3 5:58 下午
  */
 public class BinarySearch {
 
