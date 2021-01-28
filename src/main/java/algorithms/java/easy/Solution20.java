@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Stack;
 
 /**
- * #20: Valid Parentheses
+ * #20: Valid Parentheses 有效的括号
  * https://leetcode-cn.com/problems/valid-parentheses/
  * 时间复杂度：O(n)
  * 解题思路：用栈数据结构解决
@@ -13,7 +13,7 @@ import java.util.Stack;
  * 3 判断右扩展就pop栈顶匹配
  * 4 栈内无元素代表完全匹配
  */
-public class ValidParentheses {
+public class Solution20 {
 
     public static boolean isValid(String s) {
         HashMap<Character, Character> mappings = new HashMap<Character, Character>(){{
