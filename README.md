@@ -4,13 +4,13 @@ LeetCode
 ### 解决方案
 
 
-| # | Title | Solution 1| Solution 2|
+| # | Title | Solution| Difficulty|
 |---| ----- | -------- | -------- |
-|876|[Middle of the Linked List 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution876.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/876_solution.rb)
-|628|[Maximum Product of Three Numbers 三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution628.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/628_solution.rb)
-|561|[Array Partition I 数组拆分](https://leetcode-cn.com/problems/array-partition-i/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution561.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/561_solution.rb)
-|509|[Fibonacci Number 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution509.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/509_solution.rb)
-|448|[Find All Numbers Disappeared in an Array 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution448.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/448_solution.rb)
+|876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution876.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/876_solution.rb)
+|628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution628.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/628_solution.rb)
+|561|[Array Partition I](https://leetcode-cn.com/problems/array-partition-i/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution561.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/561_solution.rb)
+|509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution509.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/509_solution.rb)
+|448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution448.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/448_solution.rb)
 |414|[Third Maximum Number 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution414.java)
 |283|[Move Zeroes 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/MoveZeroes.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/move_zeroes.rb)
 |268|[Missing Number 消失的数字](https://leetcode-cn.com/problems/missing-number/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution268.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/268_solution.rb)
@@ -48,6 +48,6 @@ LeetCode
 |20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution20.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution20.rb)
 |14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution14.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution14.rb)
 |13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution13.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution13.rb)
-|9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution9.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution9.rb)
-|7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution7.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution7.rb)
-|1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution1.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution1.rb)
+|9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution9.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution9.rb) | Easy
+|7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/Solution7.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution7.rb) |  Easy
+|1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution1.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution1.rb)| Easy
