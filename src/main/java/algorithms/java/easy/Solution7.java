@@ -5,7 +5,7 @@ package algorithms.java.easy;
  * https://leetcode-cn.com/problems/reverse-integer/
  * 思路1（runtime beats 最优解）：通过%10将整数从尾数弹出放入r中，x弹完=0时，返回r（判断溢出）
  */
-public class ReverseInteger {
+public class Solution7 {
 
     public static int reverse(int x) {
         // 用 long 就不会溢出了
@@ -20,6 +20,6 @@ public class ReverseInteger {
 
     public static void main(String[] args) {
         int x = 12345678;
-        System.out.println(ReverseInteger.reverse(x));
+        System.out.println(Solution7.reverse(x));
     }
 }
