@@ -3,7 +3,6 @@ LeetCode
 
 ### 解决方案
 
-
 | # | Title | Solution| Difficulty|
 |---| ----- | -------- | -------- |
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution876.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/876_solution.rb)
@@ -47,7 +46,8 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution21.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution21.rb)
 |20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution20.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution20.rb)
 |14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution14.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution14.rb)
-|13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution13.java) | [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution13.rb)
+|13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution13.java) , [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution13.rb)|Easy 
 |9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution9.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution9.rb) | Easy
 |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/Solution7.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution7.rb) |  Easy
 |1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution1.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution1.rb)| Easy
+
