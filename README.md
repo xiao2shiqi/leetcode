@@ -35,7 +35,7 @@ LeetCode
 |83|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution83.java) | Easy
 |70|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution70.java) | Easy
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution67.java) | Easy
-|66|[Plus One](https://leetcode-cn.com/problems/plus-one/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution66.java) | Easy
+|66|[Plus One](https://leetcode-cn.com/problems/plus-one/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution66.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution66.rb) | Easy
 |58|[Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution58.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution58.rb)  | Easy
 |53|[Maximum Sub Array](https://leetcode-cn.com/problems/maximum-subarray/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution53.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution53.rb)  | Easy
 |38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/java/Solution38.java) | Easy
