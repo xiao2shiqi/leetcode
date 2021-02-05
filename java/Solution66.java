@@ -1,39 +1,29 @@
 import java.util.Arrays;
 
 /**
- * #66. Plus One
- * https://leetcode-cn.com/problems/plus-one/
+ * LC#66：Plus One
+ * Link：https://leetcode-cn.com/problems/plus-one/
+ * 通过 for 从数组尾部开始 + 1，没有遇到 0 则直接返回，遇到0 则继续向上 + 1，当数组全为 0 时，在头部扩容，插入 1
  */
 public class Solution66 {
 
     public static int[] plusOne(int[] digits) {
-        if(digits.length == 0) return digits;
-
-        int i = digits.length - 1;
-        while (i >= 0) {
-            int r = digits[i] + 1;
-            if(r < 10){
-                digits[i] = r;
+        int len = digits.length;
+        for (int i = len - 1; i >= 0; i--) {
+            // 从尾部开始 加1
+            digits[i]++;
+            digits[i] %= 10;
+            if (digits[i] != 0){
                 return digits;
-            } else {
-                digits[i] = 0;
-                i--;
             }
         }
-
-        if(digits[0] == 0) {
-            int[] newDigits = new int[digits.length + 1];
-            newDigits[0] = 1;
-            for (int j = 0; j < digits.length; j++) {
-                newDigits[j + 1] = digits[j];
-            }
-            return newDigits;
-        }
+        digits = new int[len + 1];
+        digits[0] = 1;
         return digits;
     }
 
     public static void main(String[] args) {
-        int[] nums = {9};
+        int[] nums = {1, 9, 9};
         nums = plusOne(nums);
         System.out.println(Arrays.toString(nums));
     }
