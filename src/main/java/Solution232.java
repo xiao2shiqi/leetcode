@@ -7,10 +7,12 @@ import java.util.Stack;
  */
 public class Solution232 {
 
+    // 初始化空栈
     private Stack<Integer> inputStack = null;
     private Stack<Integer> outputStack = null;
 
     public Solution232() {
+        // 实例化再加载
         inputStack = new Stack<>();
         outputStack = new Stack<>();
     }
@@ -20,6 +22,7 @@ public class Solution232 {
     }
     
     public int pop() {
+        // 输出栈为 null， 从输入栈获取数据
         if (outputStack.isEmpty()) {
             while(!inputStack.empty()) {
                 outputStack.push(inputStack.pop());
@@ -29,6 +32,7 @@ public class Solution232 {
     }
     
     public int peek() {
+        // 输出栈为 null， 从输入栈获取数据
         if(outputStack.isEmpty()) {
             while(!inputStack.isEmpty()) {
                 outputStack.push(inputStack.pop());
@@ -38,6 +42,7 @@ public class Solution232 {
     }
     
     public boolean empty() {
+        // 当两个栈为 null，当前队列 empty == true
         return inputStack.isEmpty() && outputStack.isEmpty();
     }
 
