@@ -25,6 +25,7 @@ LeetCode
 |172|[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/submissions/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution172.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution172.rb) | Easy
 |167|[Two Sum II](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution167.java) | Easy
 |160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution160.java) | Easy
+|155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/src/main/java/algorithms/src/main/java/medium/Solution155.java), [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/155-solution.go) | Easy
 |137|[Single Number II](https://leetcode-cn.com/problems/single-number-ii/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/src/main/java/algorithms/src/main/java/medium/Solution137.java) | Easy
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution136.java) | Easy
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution122.java) | Easy
