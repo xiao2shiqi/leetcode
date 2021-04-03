@@ -5,8 +5,11 @@ LeetCode
 
 | # | Title | Solution| Difficulty|
 |---| ----- | -------- | -------- |
+|1550|[Three Consecutive Odds](https://leetcode-cn.com/problems/three-consecutive-odds/) | [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/1550-solution.go) | Easy
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution876.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution876.rb) | Easy
+|766|[Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution766.java), [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/766-solution.go) | Easy
 |674|[Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution674.java), [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/674-solution.go) | Easy
+|665|[Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array//) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution665.java), [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/665-solution.go) | Easy
 |643|[Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution643.java), [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/643-solution.go) | Easy
 |628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution628.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution628.rb) | Easy
 |566|[Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution566.java), [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/566-solution.go) | Easy

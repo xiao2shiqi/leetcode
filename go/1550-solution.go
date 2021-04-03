@@ -3,10 +3,10 @@ package main
 import "fmt"
 
 /**
- * LC#1550:https://leetcode-cn.com/problems/three-consecutive-odds/
+ * LC#1550: Three Consecutive Odds
+ * Link：https://leetcode-cn.com/problems/three-consecutive-odds/
  * 思路：送分题，用一个计数器统计就行了，没什么思路。。
- *
-**/
+ **/
 func threeConsecutiveOdds(arr []int) bool {
 	if len(arr) == 0 {
 		return false
