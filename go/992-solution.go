@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 /**
- * LC#922:Sort Array By Parity II
+ * LC#992:Sort Array By Parity II
  * Link：https://leetcode-cn.com/problems/sort-array-by-parity-ii/
  * Method：DP 双指针
  * Remark：比官方的 O(n2) 解法效率还要慢上不少，不知道为什么，初始化 slice 也踩坑，没有初始化 slice len 还不能直接使用下标

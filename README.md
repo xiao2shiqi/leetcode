@@ -6,6 +6,8 @@ LeetCode
 | # | Title | Solution| Difficulty|
 |---| ----- | -------- | -------- |
 |1550|[Three Consecutive Odds](https://leetcode-cn.com/problems/three-consecutive-odds/) | [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/1550-solution.go) | Easy
+|992|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/992-solution.go) | Easy
+|977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/977-solution.go) | Easy
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution876.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution876.rb) | Easy
 |766|[Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution766.java), [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/766-solution.go) | Easy
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/) | [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/724-solution.go) | Easy
