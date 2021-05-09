@@ -22,7 +22,7 @@ LeetCode
 |414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution414.java) | Easy
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution283.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution283.rb) | Easy
 |268|[Missing Number](https://leetcode-cn.com/problems/missing-number/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution268.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution268.rb) | Easy
-|263|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/263-solution.go) | Easy
+|263|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution263.java), [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/263-solution.go) | Easy
 |237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution237.java), [Ruby](https://github.com/xiao2shiqi/leetcode/blob/master/ruby/solution237.rb) | Easy
 |232|[Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution232.java) | Easy
 |228|[Summary Ranges](https://leetcode-cn.com/problems/summary-ranges/ ) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/Solution228.java) | Easy
