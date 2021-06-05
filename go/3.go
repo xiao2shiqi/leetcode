@@ -4,7 +4,7 @@ import "fmt"
 
 /**
  * LC#3：无重复字符的最长子串
- * Link：https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/
+ * Link：https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
  * 思路1：两层循环计数，从当前字符开始计算每个字符出现的最大序列，并且使用 ans 保存最长序列
  */
 func lengthOfLongestSubstring(s string) int {
