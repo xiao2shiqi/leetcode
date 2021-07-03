@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | | Difficulty|
 |---| ----- | -------- | -------- |
-[1812][ Determine Color of a Chessboard Square](https://leetcode-cn.com/problems/determine-color-of-a-chessboard-square/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/S1812.java)
+|1812|[Determine Color of a Chessboard Square](https://leetcode-cn.com/problems/determine-color-of-a-chessboard-square/) | [Java](https://github.com/xiao2shiqi/leetcode/blob/master/src/main/java/S1812.java) | Easy
 |1550|[Three Consecutive Odds](https://leetcode-cn.com/problems/three-consecutive-odds/) | [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/1550.go) | Easy
 |992|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/992.go) | Easy
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [Go](https://github.com/xiao2shiqi/leetcode/blob/master/go/977.go) | Easy
